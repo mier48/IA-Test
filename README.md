@@ -1,2 +1,2 @@
 # IA-Test
-AI and data analysis course in python
+Curso de IA y análisis de datos en python
